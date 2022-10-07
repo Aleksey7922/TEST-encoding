@@ -1,4 +1,4 @@
-#include<iostream>
+ï»¿#include<iostream>
 using namespace std;
 
 void mine()
@@ -6,5 +6,5 @@ void mine()
 {
 	setlocale(LC_ALL, " ");
 
-	cout << "Çäðàñòè!!!";
+	cout << "Ð—Ð´Ñ€Ð°ÑÑ‚Ð¸!!!";
 }
